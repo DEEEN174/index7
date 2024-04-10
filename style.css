@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.game-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 75%;
+    width: 200px; 
+    padding: 25px;
+    background-color: #f0f0f0;
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
